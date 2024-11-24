@@ -1,0 +1,9 @@
+{
+   "v1":16,
+   "v2":0,
+   "v3":"
+   \n🏷 Base Update (13.17.0.42)
+   \n🆕Block Ads (90%) 😈
+   \n🛠️ Fixed bugs",
+   "website":"https://down.aboraad.net/ARWA.php"
+}
