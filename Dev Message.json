@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Follow AWTMODS Team",
   "content_url": "https://github.com/AWTMODS/AWT-SNAP-CHAT/raw/refs/heads/main/Devmsg",
   "positive_btn": "OK",
